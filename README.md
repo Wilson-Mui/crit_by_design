@@ -1,7 +1,9 @@
 # Critique By Design
 
 My interest is in drug policy reform and one of the biggest challenges in this field is reshape the narrative around drug usage. I was interested in this data visualization because how you present data and what you choose to highlight has as a big an impact on the user take-away as the data itself. The original data visualization was from
-[The National Institute on Drug Abuse](http://www.drugabuse.gov/publications/drugfacts/monitoring-future-survey-high-school-youth-trends).
+![The National Institute on Drug Abuse](
+        crit_by_design/Capture.PNG
+      ).
        
  ## Goals
  To improve on this data visualization I followed Few's "Data Effectiveness Profile" model, that is, I assessed the aesthetic effectiveness and the informational effectiveness.
