@@ -11,7 +11,7 @@ My interest is in drug policy reform and one of the biggest challenges in this f
  Informationally, I felt like the data visualization failed to highlight the most salient points (which I felt was that illicit drug use was actually falling, despite the dramatic increase in vaping), and that alcohol was a bigger problem than marijuana.
  
  ## Wireframe
-![My wireframe proposal is shown here](https://imgur.com/xGabIbn)
+![My wireframe proposal is shown here](/IMG_20190205_005629.jpg)
 
 My original idea was to have a graph that showed vaping usage (the most dramatic NIDA claim) but in comparison to alcohol usage - with a horizontal line drawn across the top of the alcohol bars. This would visually show that, though dramatic in its rise in usage, vaping was a less dangerous drug than something we passively accept, alcohol. I also note some aesthetic changes, like color changes, and title changes that would improve the messaging.
 
