@@ -1,7 +1,7 @@
 # Critique By Design
 
 My interest is in drug policy reform and one of the biggest challenges in this field is reshape the narrative around drug usage. I was interested in this data visualization because how you present data and what you choose to highlight has as a big an impact on the user take-away as the data itself. The original data visualization was from
-![The National Institute on Drug Abuse](/Capture.PNG).
+![The National Institute on Drug Abuse](/Capture.PNG)
        
  ## Goals
  To improve on this data visualization I followed Few's "Data Effectiveness Profile" model, that is, I assessed the aesthetic effectiveness and the informational effectiveness.
@@ -11,7 +11,7 @@ My interest is in drug policy reform and one of the biggest challenges in this f
  Informationally, I felt like the data visualization failed to highlight the most salient points (which I felt was that illicit drug use was actually falling, despite the dramatic increase in vaping), and that alcohol was a bigger problem than marijuana.
  
  ## Wireframe
-![My wireframe proposal is shown here](/IMG_20190205_005629.jpg)
+ ![My wireframe proposal is shown here](/IMG_20190205_005629.jpg)
 
 My original idea was to have a graph that showed vaping usage (the most dramatic NIDA claim) but in comparison to alcohol usage - with a horizontal line drawn across the top of the alcohol bars. This would visually show that, though dramatic in its rise in usage, vaping was a less dangerous drug than something we passively accept, alcohol. I also note some aesthetic changes, like color changes, and title changes that would improve the messaging.
 
